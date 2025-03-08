@@ -10,9 +10,9 @@ meaning tick a box that says "check for usages" and ensure the path is updated i
 all supported, platform-specific installers and binaries. Head over to the 'Actions' tab,
 select 'release' and press on 'Run Workflow' to execute it.
 
-## Core 
+## Shared 
 
-To build execute: `cd core && java JPM.java`
+To build execute: `cd shared && java JPM.java`
 
 **`com.author.shared`: the place where you will
 develop your application with Desku. It contains the UI and application logic that
